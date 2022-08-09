@@ -17,6 +17,8 @@
 
 Telegram Grubumuz : [React Türkiye Topluluğu](https://t.me/react_turkiye)
 
+LinkedIn Grubumuz: [React Türkiye Topluluğu - LinkedIn](https://www.linkedin.com/groups/9225653/)
+
 | Sıra No | Ad Soyad        | Şirket                   | Sosyal Medya Hesapları                                             | Açıklama |
 | ------- | --------------- | ------------------------ | ------------------------------------------------------------------ | -------- |
 | 1       | Berkman Adbulan | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/berkman-adbulan-077972101/) |          |
