@@ -24,4 +24,4 @@ LinkedIn Grubumuz: [React Türkiye Topluluğu - LinkedIn](https://www.linkedin.c
 | 1       | Berkman Adbulan | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/berkman-adbulan-077972101/) |          |
 | 2       | Necat Ayhan     | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/necatayhan/)                |          |
 | 3       | Hüsnü Lübnan    | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/husnu/)                     |          |
-| 4       | Ali Koçman      | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/ali-ko%C3%A7man-ba3790158/) |          |
+| 4       | Ali Koçman      | --- | [LinkedIn](https://www.linkedin.com/in/ali-ko%C3%A7man-ba3790158/) |          |
