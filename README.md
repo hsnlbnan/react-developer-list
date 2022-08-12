@@ -1,7 +1,6 @@
 # React Türkiye Topluluğu
 
-[go-developer-list](https://github.com/yakuter/go-developer-list/blob/main/README.md)'den ilham alan ve  Türkiye'deki  React dilini kullanarak geliştirme yapan yazılım geliştiricilerini tek çatı altında toplamak amacıyla oluşturulmuştur.
-
+[go-developer-list](https://github.com/yakuter/go-developer-list/blob/main/README.md)'den ilham alan ve Türkiye'deki React dilini kullanarak geliştirme yapan yazılım geliştiricilerini tek çatı altında toplamak amacıyla oluşturulmuştur.
 
 ### Katkıda bulunmak için listeyi sosyal medya hesaplarınızdan paylaşabilirisiniz.
 
@@ -11,9 +10,9 @@
 
 - İstediğiniz sosyal medya hesaplarınızı ekleyebilirisiniz.
 
--  KVKK kapsamında yalnızca kendi hesabınızı ekleyebilirisiniz.
+- KVKK kapsamında yalnızca kendi hesabınızı ekleyebilirisiniz.
 
-#### Aktif olarak çalıştığınız bir şirket yoksa  " - " koyabilirisiniz. Eğer iş arayışınız mevcutsa açıklama kısmında belirtmeyi unutmayın.
+#### Aktif olarak çalıştığınız bir şirket yoksa " - " koyabilirisiniz. Eğer iş arayışınız mevcutsa açıklama kısmında belirtmeyi unutmayın.
 
 Telegram Grubumuz : [React Türkiye Topluluğu](https://t.me/react_turkiye)
 
@@ -24,4 +23,5 @@ LinkedIn Grubumuz: [React Türkiye Topluluğu - LinkedIn](https://www.linkedin.c
 | 1       | Berkman Adbulan | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/berkman-adbulan-077972101/) |          |
 | 2       | Necat Ayhan     | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/necatayhan/)                |          |
 | 3       | Hüsnü Lübnan    | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/husnu/)                     |          |
-| 4       | Ali Koçman      | --- | [LinkedIn](https://www.linkedin.com/in/ali-ko%C3%A7man-ba3790158/) |          |
+| 4       | Ali Koçman      | ---                      | [LinkedIn](https://www.linkedin.com/in/ali-ko%C3%A7man-ba3790158/) |          |
+| 5       | Okay Beydanol   | Appricot Software Agency | [LinkedIn](https://www.linkedin.com/in/okaybeydanol/)              |          |
